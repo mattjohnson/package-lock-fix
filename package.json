@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mattjohnson/package-lock-fix/issues"
   },
-  "homepage": "https://github.com/mattjohnson/package-lock-fix#readme"
+  "homepage": "https://github.com/mattjohnson/package-lock-fix#readme",
+  "dependencies": {
+    "react": "^18.3.0"
+  }
 }
